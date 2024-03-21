@@ -1,5 +1,5 @@
 # classic snake game with javascript
-## Demo:
-Check Live Site
+## Demo (Live)
+Click [[Play Game](https://hajimohamedrufai.github.io/classic-snake-game.github.io/)]
 
 © Haji Rufai
